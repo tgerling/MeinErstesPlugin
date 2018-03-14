@@ -3,3 +3,5 @@ Ein Test Plugin für FireFox um die Addon Entwicklung kennen zulernen. Ggf. konv
 
 # Firefox Tutorial 
 Mein erstes fertiges Addon >> Borderify
+
+Mein zweites Addon, noch nicht so ganz fertig >> Beastify
